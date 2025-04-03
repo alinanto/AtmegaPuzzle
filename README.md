@@ -1,5 +1,7 @@
 # AtmegaPuzzle
 Puzzle based on Apollo 13 moon mission implemented on Atmega 32 microcontroller
+The Puzzle has also been ported to an x86_64 processor also. The is complaint with standard C
+and can be combiles for windows, linux and Mac
 
 ## External dependencies
 The work uses 2 external libraries for LCD and UART interface provided by Peter Fleury.
